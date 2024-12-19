@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kosmiadis
+- 👋 Hi, I’m Vagelis Kosmiadis
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning: JavaScript
+- 🌱 I’m currently learning: Typescript
 - 📫 How to reach me (email): vageliskosmiadis@gmail.com
 
 <!---
