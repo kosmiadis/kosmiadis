@@ -2,19 +2,19 @@
 
 ###
 
-<h2 align="left">My name is Vagelis Kosmiadis and I'm a Senior High School Student from Greece</h2>
+<h2 align="left">My name is Vagelis Kosmiadis and I'm a Senior High School Student from Greece 🇬🇷</h2>
 
 ###
 
-<h1 align="left">About me</h1>
+<h1 align="left">🧑About me</h1>
 
 ###
 
-<h3 align="left">✨ Writing code since 2020<br>📚 I'm currently learning Typescript with React<br>🎯 Goals: Front End Web Development<br>🎲 Fun fact: 120 WPM in Typing<br>✉️ Contact: vageliskosmiadis@gmail.com</h3>
+<p align="left">✨ Writing code since 2020<br>📚 I'm currently learning Typescript with React<br>🎯 Goals: Front End Web Development<br>🎲 Fun fact: 120 WPM in Typing<br>✉️ Contact: vageliskosmiadis@gmail.com</p>
 
 ###
 
-<h1 align="left">My Tech Stack</h1>
+<h1 align="left">🧑‍💻My Tech Stack</h1>
 
 ###
 
@@ -52,7 +52,7 @@
 
 ###
 
-<h1 align="left">Experience In</h1>
+<h1 align="left">⭐Experience In</h1>
 
 ###
 
@@ -84,9 +84,15 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kosmiadis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kosmiadis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<h1 align="left">📉Github Statistics</h1>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=kosmiadis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kosmiadis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
