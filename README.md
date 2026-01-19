@@ -42,11 +42,8 @@ My name is Vagelis Kosmiadis and I'm a Computer Science Undergraduate in Aristot
   <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="netlify logo"  />
 </div>
 
-###
 
-<h1 align="left">⭐Experience In</h1>
-
-###
+⭐**Experience In**
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -65,26 +62,3 @@ My name is Vagelis Kosmiadis and I'm a Computer Science Undergraduate in Aristot
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
-
-###
-
-<h1 align="left">Hobbies</h1>
-
-###
-
-<h3 align="left">💪 Working Out<br>📚 Reading Books</h3>
-
-###
-
-<h1 align="left">📉Github Statistics</h1>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kosmiadis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kosmiadis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
