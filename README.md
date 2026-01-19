@@ -8,6 +8,8 @@ My name is Vagelis Kosmiadis and I'm a Computer Science Undergraduate in Aristot
 - I'm currently learning Data Structures and Algorithms, Building solid Full Stack Development with PERN Stack
 - Contact: vageliskosmiadis@gmail.com
 
+
+
 🧑‍💻 **My Tech Stack**
 
 <div align="left">
@@ -41,6 +43,7 @@ My name is Vagelis Kosmiadis and I'm a Computer Science Undergraduate in Aristot
   <img width="12" />
   <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="netlify logo"  />
 </div>
+
 
 
 ⭐**Experience In**
