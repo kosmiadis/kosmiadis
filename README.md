@@ -1,22 +1,13 @@
-<h1 align="left">Welcome to my Profile 📚</h1>
+# Welcome to my Profile
 
-###
+# My name is Vagelis Kosmiadis and I'm a Computer Science Undergraduate in Aristotle University of Thessaloniki, Greece 
 
-<h2 align="left">My name is Vagelis Kosmiadis and I'm a Computer Science Undergraduate in Aristotle University of Thessaloniki, Greece </h2>
+## 🧑About me
+- Writing code since 2020
+- I'm currently learning Data Structures and Algorithms, Building solid Full Stack Development with PERN Stack
+- Contact: vageliskosmiadis@gmail.com
 
-###
-
-<h1 align="left">🧑About me</h1>
-
-###
-
-<p align="left">✨ Writing code since 2020<br>📚 I'm currently learning Typescript with React<br>🎯 Goals: Front End Web Development<br>🎲 Fun fact: 120 WPM in Typing<br>✉️ Contact: vageliskosmiadis@gmail.com</p>
-
-###
-
-<h1 align="left">🧑‍💻My Tech Stack</h1>
-
-###
+## 🧑‍💻My Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
