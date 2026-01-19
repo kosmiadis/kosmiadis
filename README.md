@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">My name is Vagelis Kosmiadis and I'm a Senior High School Student from Greece 🇬🇷</h2>
+<h2 align="left">My name is Vagelis Kosmiadis and I'm a Computer Science Undergraduate in Aristotle University of Thessaloniki, Greece </h2>
 
 ###
 
